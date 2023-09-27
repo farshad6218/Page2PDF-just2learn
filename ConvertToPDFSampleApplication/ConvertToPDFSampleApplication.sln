@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToPDFSampleApplication", "ConvertToPDFSampleApplication.csproj", "{DE5228FF-E5A8-4B60-9031-3AC3B67FE4FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToPDFSampleApplication.Tests", "..\ConvertToPDFSampleApplication.Tests\ConvertToPDFSampleApplication.Tests.csproj", "{3F08009C-19F2-4EF0-A871-E4F59D345061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5228FF-E5A8-4B60-9031-3AC3B67FE4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5228FF-E5A8-4B60-9031-3AC3B67FE4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5228FF-E5A8-4B60-9031-3AC3B67FE4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5228FF-E5A8-4B60-9031-3AC3B67FE4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F08009C-19F2-4EF0-A871-E4F59D345061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F08009C-19F2-4EF0-A871-E4F59D345061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F08009C-19F2-4EF0-A871-E4F59D345061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F08009C-19F2-4EF0-A871-E4F59D345061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9509F5B-1EC3-473C-A3A7-2668B056BA03}
+	EndGlobalSection
+EndGlobal
